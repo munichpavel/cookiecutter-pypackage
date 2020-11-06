@@ -56,9 +56,11 @@ Cookiecutter 1.4.0 or higher)::
 
     pip install -U cookiecutter
 
-Generate a Python package project::
+Generate a Python package project from this fork of `cookiecutter-pypackage
+<https://github.com/audreyfeldroy/cookiecutter-pypackage>`_::
 
-    cookiecutter https://github.com/audreyfeldroy/cookiecutter-pypackage.git
+    cookiecutter https://github.com/munichpavel/cookiecutter-pypackage.git
+
 
 Then:
 
