@@ -19,3 +19,5 @@ Click{% endif %}
 {% if cookiecutter.use_pytest == 'y' -%}
 pytest
 {% endif %}
+
+-e .
